@@ -6,7 +6,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rrxckl&show_icons=true&count_private=true&hide_border=true&title_color=F70100FF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FFFFFF" alt="CkL Status" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rrxckl&show_icons=true&count_private=true&hide_border=true&title_color=F70100FF&icon_color=F70100FF&text_color=F70100FF&bg_color=FFFFFF" alt="CkL Status" /> 
 </div>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Fb3zThgQ3g)
