@@ -1,7 +1,15 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F70100FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70100&random=false&width=435&lines=Ola+meu+nome+e+CkL+;Tenho+21+anos;atualmente+desenvolvendo+meu+bot+Akane;mais%2C+e+isso+seja+bem-vindo+%3A*)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F70100size=35&center=true&vCenter=true&width=1000&lines=Ola+meu+nome+e+CkL+;Tenho+23+anos;Tenho+21+anos;atualmente+desenvolvendo+meu+bot+Akane;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Fb3zThgQ3g)
 
