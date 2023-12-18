@@ -34,4 +34,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rrxckl}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F70100FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
