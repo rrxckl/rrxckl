@@ -1,9 +1,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F70100FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70100&random=false&width=435&lines=Ola+meu+nome+e+CkL+;Tenho+21+anos;mais%2C+e+isso+seja+bem-vindo+%3A*))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70100&random=false&width=435&lines=Ola+meu+nome+e+CkL+;Tenho+21+anos;atualmente+desenvolvendo+meu+bot+Akane;mais%2C+e+isso+seja+bem-vindo+%3A*))](https://git.io/typing-svg)
+
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Fb3zThgQ3g)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rrxckl&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="CKL github Status" /> 
