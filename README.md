@@ -3,12 +3,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70100&random=false&width=435&lines=Ola+meu+nome+e+CkL+;Tenho+21+anos;atualmente+desenvolvendo+meu+bot+Akane;mais%2C+e+isso+seja+bem-vindo+%3A*))](https://git.io/typing-svg)
 
-
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Fb3zThgQ3g)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rrxckl&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
+
+
+
+
+
+
+
+
+
 
 ## Tecnologias que eu uso no meu dia
 
