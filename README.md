@@ -1,5 +1,5 @@
 ### Olà sou o CkL
-### Desenvolvedor da [![Akane](https://akaneweb.netlify.app)
+### Desenvolvedor da [![Akane]([https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord](https://cdn.discordapp.com/attachments/1175545457263521822/1183973834118942731/b43736a2-32b5-4761-97d5-bfd9aaca1092.png)&logoColor=white)](https://discord.gg/Fb3zThgQ3g)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Fb3zThgQ3g)
 
